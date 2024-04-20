@@ -1,5 +1,5 @@
 # LaundroSync
-A software service to optimize the laundry process
+Welcome to the software repository for LaundroSync, a software service built to optimize the laundry process. By giving user the ability to remotely check machines' statuses they can save time and energy. Laundry does not need to be difficult, we have the solution. Save time and frustration with LaundroSync!
 
 
 
