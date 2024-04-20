@@ -1,1 +1,6 @@
-Parts of the program simulate what it would be like to access a normal laundry room, while other parts are actual features of the app. The program will display all these different features to the user.
+Parts of the program simulate what it would be like to access a normal laundry room, while other parts are actual features of the app. The program will display all these 
+different features to the user. First the program will show the login feature of the app, where users can login with 3 attempts for both the username and password.
+Then, the machine checking and registering system will be put on display to show how a user may check if a specified machine is open and then simulate registering it.
+Finally, the timer and notification system for the program is shown. The program here presents a simulated version to save time, so a 10 second timer is set and at the 
+end of it a notification similar to what a user might receive will be sent to the user's device letting them know their laundry is done. The entire system is implemented
+using an already built graphical user interface (JOptionPane).
