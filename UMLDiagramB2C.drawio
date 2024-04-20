@@ -1,0 +1,231 @@
+<mxfile host="app.diagrams.net" modified="2024-04-20T00:23:45.095Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="VO9YNfbAGZy7hAqTxOhn" version="24.2.5" type="onedrive">
+  <diagram name="Page-1" id="hAJMwnUvEpHpHcC8Y3pI">
+    <mxGraphModel dx="954" dy="553" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gvWc_xCSwfmQkSEpwrWN-1" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" parent="1" vertex="1">
+          <mxGeometry x="-132" y="493" width="440" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gvWc_xCSwfmQkSEpwrWN-2" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" parent="1" vertex="1">
+          <mxGeometry x="88" y="493" width="440" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gvWc_xCSwfmQkSEpwrWN-3" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" parent="1" vertex="1">
+          <mxGeometry x="298" y="494" width="440" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gvWc_xCSwfmQkSEpwrWN-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.842;entryY=0.022;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="gvWc_xCSwfmQkSEpwrWN-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="118" y="373" as="sourcePoint" />
+            <mxPoint x="168" y="323" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gvWc_xCSwfmQkSEpwrWN-6" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.577;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="118" y="493" as="sourcePoint" />
+            <mxPoint x="276.98" y="492.96000000000004" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gvWc_xCSwfmQkSEpwrWN-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.846;entryY=0.022;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="gvWc_xCSwfmQkSEpwrWN-3" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="338" y="373" as="sourcePoint" />
+            <mxPoint x="418" y="373" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gvWc_xCSwfmQkSEpwrWN-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.865;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="338" y="493" as="sourcePoint" />
+            <mxPoint x="488" y="493" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gvWc_xCSwfmQkSEpwrWN-10" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="488" y="443" as="sourcePoint" />
+            <mxPoint x="338" y="443" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gvWc_xCSwfmQkSEpwrWN-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.462;exitY=-0.067;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="275.9899999999998" y="542.7600000000002" as="sourcePoint" />
+            <mxPoint x="120.01" y="543" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gvWc_xCSwfmQkSEpwrWN-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.344;exitY=-0.017;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="276.98" y="592.9999999999999" as="sourcePoint" />
+            <mxPoint x="118" y="591.88" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gvWc_xCSwfmQkSEpwrWN-15" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="487.01" y="592.31" as="sourcePoint" />
+            <mxPoint x="338.99" y="592.31" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gvWc_xCSwfmQkSEpwrWN-16" value="University and User ID" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="148" y="333" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gvWc_xCSwfmQkSEpwrWN-19" value="User Scans NFC&#39;s" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="158" y="463" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gvWc_xCSwfmQkSEpwrWN-20" value="See&#39;s Remaining time for laundry" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="150.01" y="513" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gvWc_xCSwfmQkSEpwrWN-22" value="Enters that they have removed laundry" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="130.5" y="618" width="135" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gvWc_xCSwfmQkSEpwrWN-24" value="University and User ID" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="368" y="333" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gvWc_xCSwfmQkSEpwrWN-26" value="NFC information" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="378" y="463" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gvWc_xCSwfmQkSEpwrWN-30" value="Timer finishes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="488" y="548" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gvWc_xCSwfmQkSEpwrWN-41" value="App" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="248" y="213" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gvWc_xCSwfmQkSEpwrWN-42" value="Server" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="458" y="213" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gvWc_xCSwfmQkSEpwrWN-43" value="User" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="33" y="243" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gvWc_xCSwfmQkSEpwrWN-44" value="Database" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="658" y="213" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gvWc_xCSwfmQkSEpwrWN-45" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" parent="1" vertex="1">
+          <mxGeometry x="508" y="493" width="440" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gvWc_xCSwfmQkSEpwrWN-46" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.865;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="548" y="373" as="sourcePoint" />
+            <mxPoint x="698" y="373" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gvWc_xCSwfmQkSEpwrWN-47" value="University and User ID" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="578" y="333" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gvWc_xCSwfmQkSEpwrWN-49" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="696.02" y="403" as="sourcePoint" />
+            <mxPoint x="548" y="403" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gvWc_xCSwfmQkSEpwrWN-50" value="Returns Validity" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="548" y="381" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gvWc_xCSwfmQkSEpwrWN-53" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="698" y="443" as="sourcePoint" />
+            <mxPoint x="548" y="443" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gvWc_xCSwfmQkSEpwrWN-54" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.808;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="278" y="440.47" as="sourcePoint" />
+            <mxPoint x="118.00000000000011" y="440.3100000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gvWc_xCSwfmQkSEpwrWN-55" value="Shows Machine Options" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="123" y="411" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gvWc_xCSwfmQkSEpwrWN-57" value="if valid" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="698" y="403" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gvWc_xCSwfmQkSEpwrWN-58" value="Returns # of machines in location" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="548" y="411" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gvWc_xCSwfmQkSEpwrWN-59" value="Returns # of machines in location" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="338" y="411" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gvWc_xCSwfmQkSEpwrWN-60" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.865;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="548" y="492.66" as="sourcePoint" />
+            <mxPoint x="698" y="492.66" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gvWc_xCSwfmQkSEpwrWN-61" value="NFC information" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="588" y="462.66" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gvWc_xCSwfmQkSEpwrWN-63" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="698" y="543" as="sourcePoint" />
+            <mxPoint x="548" y="543" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gvWc_xCSwfmQkSEpwrWN-65" value="Marks NFC as unavailable" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="568" y="513" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gvWc_xCSwfmQkSEpwrWN-66" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="488" y="543" as="sourcePoint" />
+            <mxPoint x="338" y="543" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gvWc_xCSwfmQkSEpwrWN-67" value="Starts Timer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="353" y="513" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gvWc_xCSwfmQkSEpwrWN-68" value="Create notification laundry is done" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="373" y="563" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gvWc_xCSwfmQkSEpwrWN-69" value="See&#39;s notification laundry is finished" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="149.5" y="561.88" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gvWc_xCSwfmQkSEpwrWN-70" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.577;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120.52" y="648.04" as="sourcePoint" />
+            <mxPoint x="279.5" y="648" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gvWc_xCSwfmQkSEpwrWN-71" value="Enters that they have removed laundry" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="347.98" y="618" width="135" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gvWc_xCSwfmQkSEpwrWN-72" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="338" y="648.04" as="sourcePoint" />
+            <mxPoint x="488" y="648" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gvWc_xCSwfmQkSEpwrWN-73" value="Enters that they have removed laundry" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="555.5" y="613" width="135" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gvWc_xCSwfmQkSEpwrWN-74" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="548" y="648.04" as="sourcePoint" />
+            <mxPoint x="698" y="648" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gvWc_xCSwfmQkSEpwrWN-75" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="698" y="708" as="sourcePoint" />
+            <mxPoint x="548" y="708" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gvWc_xCSwfmQkSEpwrWN-76" value="Marks NFC as available" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="568" y="678" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gvWc_xCSwfmQkSEpwrWN-78" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="488" y="708" as="sourcePoint" />
+            <mxPoint x="338" y="708" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gvWc_xCSwfmQkSEpwrWN-79" value="Marks machine as available" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="358" y="678" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gvWc_xCSwfmQkSEpwrWN-80" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="278" y="708" as="sourcePoint" />
+            <mxPoint x="118" y="708" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gvWc_xCSwfmQkSEpwrWN-81" value="Machine seen as available" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="138" y="678" width="120" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
