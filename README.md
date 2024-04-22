@@ -8,3 +8,10 @@ Figma Link: https://www.figma.com/file/FDVSVmt232ic6zPfwVEUSp/LaundroSync?type=d
 https://github.com/AA-maker/LaundroSync/assets/57161843/08d8e665-19da-4c5b-b160-9c4e1e2613de
 
 
+Contact Information:
+Akshay Anand - anand.212@osu.edu
+Claire Berlier - berlier.3@osu.edu
+Meena Chandrasekharan - chandrasekharan.15@osu.edu
+Ryan Gick - gick.7@osu.edu
+
+
